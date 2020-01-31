@@ -1,0 +1,43 @@
+Socials:
+4Chan/pol/  http://boards.4chan.org/pol/
+Reddit  https://www.reddit.com/
+Twitter  https://twitter.com/home
+Knockout   https://knockout.chat
+Discord  https://discordapp.com/
+Coub   https://coub.com/
+
+Entertainment:
+Twitch  https://www.twitch.tv/
+YouTube  https://www.youtube.com/
+Netflix   https://www.netflix.com/browse
+Prime   https://www.primevideo.com/ref=av_auth_return_redir
+
+League:
+op.gg  https://lol.mobalytics.gg/summoner/euw/a1pha?season=13
+Mobalytics  https://lol.mobalytics.gg/summoner/euw/a1pha?season=13
+u.gg  https://u.gg/
+mobafire  https://www.mobafire.com/league-of-legends/browse
+surrender@20  http://www.surrenderat20.net/
+
+Other:
+Outlook  https://outlook.live.com/mail/inbox
+Yahoo mail  https://mail.yahoo.com/d/folders/1?.src=fp
+Gmail  https://mail.google.com/mail/u/0/?tab=om
+Gdrive  https://drive.google.com/drive/u/0/my-drive
+Moodle  https://www.epsic.ch/secure/moodle/course/index.php?categoryid=11
+
+Coding:
+Github   https://github.com/
+Exercism https://exercism.io/
+Hackr.io https://hackr.io/
+
+Crypto:
+Coinmarketcap   https://coinmarketcap.com/
+Coinbase   https://www.coinbase.com/signin
+Bitmex   https://www.bitmex.com/login
+Binance   https://www.binance.com/en/login?callback=/en/usercenter/wallet/balances
+
+Alt News:
+StolenHistory   https://www.stolenhistory.org/
+Vigilant Citizen  https://vigilantcitizen.com/
+SouthFront  https://southfront.org/
