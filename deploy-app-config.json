@@ -1,0 +1,18 @@
+{
+    "prod":{
+      
+      "user": "deploy",
+      "host": "192.168.0.1",
+      "port": "22",
+      
+      "files": "build src *.json index.html",
+      
+      "path": "https://github.com/Psychovisual/start-page",
+      
+      "pre-deploy-local" : "npm run build"
+
+    },
+
+    "dev":{},
+    "staging":{}
+  }
